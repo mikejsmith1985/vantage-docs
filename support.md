@@ -25,7 +25,7 @@ When reporting a bug, please include:
 ### Email Support
 For account or billing questions, or if you prefer direct contact:
 
-**support@Vantage-app.dev** *(configure this once you have a support mailbox)*
+**mikejsmith1985@yahoo.com**
 
 ---
 

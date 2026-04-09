@@ -9,7 +9,7 @@ layout: default
 **Last updated:** April 8, 2026  
 **App:** Vantage for Jira (Atlassian Forge)  
 **Developer:** Mike Smith  
-**Contact:** support@Vantage-app.dev
+**Contact:** mikejsmith1985@yahoo.com
 
 ---
 
@@ -122,7 +122,7 @@ As a user or administrator of Vantage, you have the right to:
 - **Erasure** — uninstalling Vantage permanently deletes all associated data from Forge Storage and Secret Storage
 - **Portability** — your configuration data is stored in a structured format; contact us to request an export
 
-To exercise these rights, contact us at: **support@Vantage-app.dev**
+To exercise these rights, contact us at: **mikejsmith1985@yahoo.com**
 
 ---
 
@@ -146,7 +146,7 @@ Continued use of Vantage after a policy update constitutes acceptance of the rev
 
 For privacy questions, data requests, or concerns:
 
-**Email:** support@Vantage-app.dev  
+**Email:** mikejsmith1985@yahoo.com  
 **GitHub:** [github.com/mikejsmith1985/Vantage](https://github.com/mikejsmith1985/Vantage)  
 **Marketplace listing:** [Atlassian Marketplace — Vantage](#)
 

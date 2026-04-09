@@ -9,7 +9,7 @@ layout: default
 **Last updated:** April 9, 2026
 **App:** Vantage for Jira (Atlassian Forge)
 **Developer:** Mike Smith
-**Contact:** support@vantage-app.dev
+**Contact:** mikejsmith1985@yahoo.com
 
 ---
 
@@ -137,7 +137,7 @@ These Terms are governed by the laws of the State of Texas, United States, witho
 
 For questions about these Terms:
 
-**Email:** support@vantage-app.dev
+**Email:** mikejsmith1985@yahoo.com
 **GitHub:** [github.com/mikejsmith1985/vantage](https://github.com/mikejsmith1985/vantage)
 
 ---
