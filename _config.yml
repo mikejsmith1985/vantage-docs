@@ -1,0 +1,27 @@
+# GitHub Pages configuration for Vantage documentation site.
+# Uses the Cayman theme — clean, professional, and readable on all screen sizes.
+
+title: Vantage for Jira
+description: >
+  The all-in-one Agile program management panel for Jira Cloud.
+  Sprint dashboards, DSU boards, ART views, ServiceNow integration, and more —
+  all inside the Jira interface you already use every day.
+
+theme: jekyll-theme-cayman
+
+url: "https://mikejsmith1985.github.io"
+baseurl: "/vantage"
+
+# Navigation links shown in the header
+header_pages:
+  - index.md
+  - setup-guide.md
+  - support.md
+  - privacy-policy.md
+  - terms.md
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
